@@ -24,7 +24,9 @@ namespace WebApplicationJokes.Controllers
         // GET: Jokes
         public async Task<IActionResult> Index() //that's the index that's gonna show all the jokes
         {
+            List<Joke> jokes = _context.Joke.ToList();
             return View(await _context.Joke.ToListAsync());
+          
         }
         // GET: Jokes/ShowSearchForm
         public async Task<IActionResult> ShowSearchForm() //this is to enable the searching to be functional

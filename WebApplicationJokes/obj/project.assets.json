@@ -10063,11 +10063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ElHannachi.Fadoua\\source\\repos\\WebApplicationJokes\\WebApplicationJokes\\WebApplicationJokes.csproj",
+      "projectUniqueName": "C:\\Users\\ElHannachi.Fadoua\\Source\\Repos\\MVC-Csharp\\WebApplicationJokes\\WebApplicationJokes.csproj",
       "projectName": "WebApplicationJokes",
-      "projectPath": "C:\\Users\\ElHannachi.Fadoua\\source\\repos\\WebApplicationJokes\\WebApplicationJokes\\WebApplicationJokes.csproj",
+      "projectPath": "C:\\Users\\ElHannachi.Fadoua\\Source\\Repos\\MVC-Csharp\\WebApplicationJokes\\WebApplicationJokes.csproj",
       "packagesPath": "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ElHannachi.Fadoua\\source\\repos\\WebApplicationJokes\\WebApplicationJokes\\obj\\",
+      "outputPath": "C:\\Users\\ElHannachi.Fadoua\\Source\\Repos\\MVC-Csharp\\WebApplicationJokes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ElHannachi.Fadoua\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WX860WkGZGUfK7BV98SBVyGAendAkT3hcY2k0iVAjF/r0GjRlVvbC+XExdw7TYj1gzXScEBaEYJaA0veh25HWA==",
+  "dgSpecHash": "zcSXS/F6Dw24w1THD29RY6s++rWcFXd3GSZyzrzpsYTr8jceG+e4soHbnlL1SMxJ88Eeqa+lCLQo0Z8jvkrUkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ElHannachi.Fadoua\\source\\repos\\WebApplicationJokes\\WebApplicationJokes\\WebApplicationJokes.csproj",
+  "projectFilePath": "C:\\Users\\ElHannachi.Fadoua\\Source\\Repos\\MVC-Csharp\\WebApplicationJokes\\WebApplicationJokes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
